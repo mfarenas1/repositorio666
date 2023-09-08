@@ -1,0 +1,28 @@
+#cabecera{
+    font-size: 20px;
+    width: 350px; 
+    height: 100px;
+}
+
+.agrandar{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+}
+
+
+#titulo{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 45px;
+
+}
+
+#parrafo{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 15px;
+
+}
+
+#foto1{
+    width: 200px;
+    height: 200px;
+}
